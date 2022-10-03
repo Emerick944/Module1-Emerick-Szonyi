@@ -1,7 +1,7 @@
 
 # **Project: ChoresCount**
 
-## *Emerick Szonyi*
+## *Emerick Szonyi*, Other Members : Danny Graine, Léo Petit, Matteo Hamaimi
 
 ### Description of the Project
 
