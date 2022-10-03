@@ -10,4 +10,4 @@ Our project *ChoresCount* is designed for shared accommodation. On our app, you 
 Features : 
 1. The possibility to add new chores
 2. To do a planning for a week
-3. fairly distribute the tasks to the roommates
+3. Fairly distribute the tasks to the roommates
